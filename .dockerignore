@@ -1,0 +1,8 @@
+.git
+.env
+.env.*
+.DS_Store
+.idea
+.vscode
+target
+uploads
